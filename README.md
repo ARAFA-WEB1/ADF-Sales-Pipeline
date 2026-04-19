@@ -157,7 +157,3 @@ The cleaned JSON file was saved successfully to the `output` container.
 - **JSON** — Output format
 
 ---
-
-**Mohamed Negm**  
-Computer Science — Egypt-Japan University of Science and Technology (E-JUST)  
-DEPI Program — AI & Data Engineering Track
